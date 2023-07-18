@@ -5,5 +5,8 @@
  <li>Reading.</li>
  <li>Learning new things.</li>
 </ol>
-<p>contact with me</p>
-<a href="https://www.linkedin.com/in/mohammed-amr-b02b011b1/" target="_blank">Linkedin Profile</a>
+<div align="center">
+<p>Contact with me</p>
+<a href="https://www.linkedin.com/in/mohammed-amr-b02b011b1/" target="_blank">My Linkedin Profile</a>
+<p> My email: mohammedamr75088@gmail.com </p>
+</div>

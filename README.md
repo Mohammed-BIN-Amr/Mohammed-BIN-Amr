@@ -1,12 +1,13 @@
- <h2>Hallo there 👋 My name is Mohammed Amr Sayed</h2>
- <p>I am a CS student 🤓 I’m currently learning C++ and Python.
-🤔 I’m looking for help with Problem Solving. I am working on improving myself technically and socially.</p>
-<ol><u>My hoppies are: -</u>
- <li>Reading.</li>
- <li>Learning new things.</li>
-</ol>
+ <h1>Mohammed Amr Sayed</h1>
+ <h2>About Me</h2>
+ <p>I am a CS student with a passion for learning and self-development. I am currently focusing on improving my technical and soft skills, and I enjoy reading and exploring new topics in my free time.</p>
+<h3>skills</h3>
+ <li>C++</li>
+ <li>Python</li>
+ <li>HTML/CSS/JavaScript</li>
+ <li>Git</li>
 <div align="center">
-<p>Contact with me</p>
+<p>Contact Me</p>
 <a href="https://www.linkedin.com/in/mohammed-amr-b02b011b1/" target="_blank">My Linkedin Profile</a>
 <p> My email: mohammedamr75088@gmail.com </p>
 </div>

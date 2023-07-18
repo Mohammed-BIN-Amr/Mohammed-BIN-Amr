@@ -6,4 +6,4 @@
  <li>Learning new things.</li>
 </ol>
 <p>contact with me</p>
-<a href="https://www.linkedin.com/in/mohammed-amr-b02b011b1/" target="blank">Linkedin Profile</a>
+<a href="https://www.linkedin.com/in/mohammed-amr-b02b011b1/" target="_blank">Linkedin Profile</a>

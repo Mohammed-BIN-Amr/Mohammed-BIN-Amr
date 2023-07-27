@@ -6,6 +6,7 @@
  <li>Python</li>
  <li>HTML/CSS/JavaScript</li>
  <li>Git</li>
+ <p>Currently I am working to conduct projects using python you can find them in the reposatoy.</p>
 <div align="center">
 <p>Contact Me</p>
 <a href="https://www.linkedin.com/in/mohammed-amr-b02b011b1/" target="_blank">My Linkedin Profile</a>

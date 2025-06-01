@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=CS%20Student;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a CS Student at Faculty of Computer and information Science Ain Shams University.
+- 🏢 I'm a CS Student at Faculty of Computer and Artificial Intelligence Benha University.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 📈 Instersed in Statistics, Machine Learing and Data Science.
 - ⚡ My target: Integration between different Sciences and fields to find solutions for community problems.
